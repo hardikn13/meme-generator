@@ -38,8 +38,6 @@ npm start
 1. Select a meme template from the available options.
 2. Enter your custom text in the top and bottom text boxes.
 3. Preview the meme in real-time.
-4. Download the meme by clicking the "Download" button.
-5. Share your meme on social media using the provided sharing options.
 ```
 
 ## Fork the repository.
