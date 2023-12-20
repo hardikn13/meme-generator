@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 ```markdown
-For any questions or suggestions, feel free to contact us at hardiknahta111@gmail.com.
+For any questions or suggestions, feel free to contact me at hardiknahta111@gmail.com.
 ```
 
 Happy meme generating! 🚀
