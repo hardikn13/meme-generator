@@ -1,7 +1,7 @@
 # Meme-Generator
 
 ## Overview
-The React Meme Generator is a fun and interactive web application built using React that allows users to create and share custom memes. With a simple and user-friendly interface, users can select meme templates, add their own text, and preview the generated memes.
+The React Meme Generator is a fun and interactive web application built using React that allows users to create custom memes. With a simple and user-friendly interface, users can select meme templates, add their own text, and preview the generated memes.
 
 ## Features
 - Choose from a variety of meme templates.
