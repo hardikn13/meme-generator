@@ -14,7 +14,7 @@ The React Meme Generator is a fun and interactive web application built using Re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/react-meme-generator.git
+git clone https://github.com/hardikn13/meme-generator.git
 ```
 2. Navigate to the project directory:
 ```bash
